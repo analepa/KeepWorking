@@ -1,9 +1,9 @@
 # KeepWorking 
-A script that tells Windows to change how it handles sleep and screen timeout 
+AI assisted python script that tells Windows to change how it handles sleep and screen timeout 
 
 
 ## General Description
-The **Stay Awake Utility** is a lightweight, background Python script designed to prevent your Windows computer from going to sleep or locking your screen while you are away. Instead of simply jiggling the mouse in place, it dynamically mimics organic human interaction by randomly moving the cursor across multiple monitors and intelligently minimizing/restoring active windows. 
+The **ResetTimer.pyw** is a lightweight, background Python script designed to prevent your Windows computer from going to sleep or locking your screen while you are away. Instead of simply jiggling the mouse in place, it dynamically mimics organic human interaction by randomly moving the cursor across multiple monitors and intelligently minimizing/restoring active windows. 
 
 **Core Features:**
 *   **Invisible Operation:** Runs silently in the background with a convenient System Tray icon for controls.
